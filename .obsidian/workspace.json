@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,6 +138,7 @@
   },
   "active": "886ae3a8c6e398d0",
   "lastOpenFiles": [
+    "README.md",
     "obsidian.md",
     "新的文件.md",
     "色润肺.md",
