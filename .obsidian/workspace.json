@@ -11,15 +11,9 @@
             "id": "886ae3a8c6e398d0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -155,
-                  "y": -293,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md"
               }
             }
           }
@@ -89,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md"
               }
             }
           }
@@ -156,11 +150,11 @@
   },
   "active": "886ae3a8c6e398d0",
   "lastOpenFiles": [
-    "2023-01-05.md",
+    "未命名.canvas",
+    "Untitled.md",
     "obsidian.md",
     "README.md",
-    "Untitled.md",
-    "未命名.canvas",
+    "2023-01-05.md",
     "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
     "未命名 1.canvas",
     "新的文件.md",
