@@ -11,26 +11,19 @@
             "id": "886ae3a8c6e398d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2023-01-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0f3b86a95859865",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -155,
+                  "y": -293,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-05.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-05.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +129,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-05.md"
+                "file": "未命名.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,19 +149,22 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f0f3b86a95859865",
+  "active": "886ae3a8c6e398d0",
   "lastOpenFiles": [
-    "README.md",
+    "2023-01-05.md",
     "obsidian.md",
+    "README.md",
+    "Untitled.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
+    "未命名 1.canvas",
     "新的文件.md",
     "色润肺.md",
-    "images/Pasted image 20221123161222.png",
-    "大.md",
-    "再建立一个新的笔记吧.md",
-    "这里是标签.md",
-    "images/Pasted image 20221123161156.png"
+    "images/Pasted image 20221123161222.png"
   ]
 }
