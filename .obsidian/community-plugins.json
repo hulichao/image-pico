@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-to-notion"
 ]

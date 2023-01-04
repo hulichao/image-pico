@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md",
+                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md",
+                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md",
+                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md"
+                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md"
               }
             }
           }
@@ -147,20 +147,21 @@
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "d28c7642c55bb907",
+  "active": "886ae3a8c6e398d0",
   "lastOpenFiles": [
-    "大数据-吴邪笔记/博客 - 1分钟绑定wolai笔记 到自定义域名_jonh3o5fR5psR7pp1ZUSQ5.md",
-    "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
-    "未命名.canvas",
-    "Untitled.md",
-    "obsidian.md",
-    "README.md",
-    "2023-01-05.md",
-    "未命名 1.canvas",
-    "新的文件.md",
-    "色润肺.md"
+    "大数据-吴邪笔记/大数据开发-Spark-开发Streaming处理数据 && 写入Kafka_32EKKxHaKH8cpRVjEdEbfz.md",
+    "大数据-吴邪笔记/连接不上Docker-Kafka-broker及Kafka解决内网外网隔离的几个重要参数_66G4DbnpdDKwEc3nP6Wj9j.md",
+    "大数据-吴邪笔记/开发工具-scala处理json格式利器-json4s_sTVar6XXjpuM9ANFn2sx9n.md",
+    "大数据-吴邪笔记/机器学习-KNN算法原理 && Spark实现_7ovDFfwxVAt7cBZGPoXYow.md",
+    "大数据-吴邪笔记/大数据实战-Hive-技巧实战_2LgaeiFwLs7mCTwG5T3c9M.md",
+    "大数据-吴邪笔记/大数据开发-Sql-涉及迭代数据的sql问题处理思路_qdo4cud5HMpMcRK1NJyvxx.md",
+    "大数据-吴邪笔记/算法-回溯问题解决框架_fqjEinhMhmhcUvWmmwhfcD.md",
+    "大数据-吴邪笔记/Java设计模式_jx3yV3TDhAX7AoH1K2hroX.md",
+    "大数据-吴邪笔记/Hive-常见调优方式 && 两个面试sql_dxPomX7pCopgC97TLUaxxH.md",
+    "大数据-吴邪笔记/大数据开发-Spark-拷问灵魂的5个问题_fcZEt6ZVVNKWvgTPRzrpuS.md"
   ]
 }

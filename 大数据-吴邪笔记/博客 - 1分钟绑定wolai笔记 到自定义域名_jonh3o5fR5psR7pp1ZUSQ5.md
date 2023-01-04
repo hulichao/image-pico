@@ -4,7 +4,7 @@
 
 首先，将笔记分享，分享方式可以点右上角分享按钮，分享范围现在只支持页面及其子页面，引用的页面是没有权限的，可以访问[hulichao.top](hulichao.top "hulichao.top") 来看看效果哦, 由于采用的是frame 跳转，所以可以实现地址栏一直保持域名的状态，另外也可以跳转而不改变地址栏的地址。下面来简单介绍两种方式如何实现
 
-![](image/image_aH4gGNNoaE.png)
+![](E:\nut_store\我的坚果云\ob_repository\知识笔记\大数据-吴邪笔记\image\image_aH4gGNNoaE.png)
 
 ![](image/image_SOZdTycctj.png)
 
