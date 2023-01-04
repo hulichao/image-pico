@@ -11,9 +11,11 @@
             "id": "886ae3a8c6e398d0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md"
+                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 658
   },
   "right": {
     "id": "98bb172dcfbf0cad",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
+                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
+                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md"
+                "file": "大数据-吴邪笔记/大数据开发-生产中遇到的10个致命问题_egWUKhbTypV9cKMNVVLb9y.md"
               }
             }
           }
@@ -148,17 +150,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "886ae3a8c6e398d0",
+  "active": "d28c7642c55bb907",
   "lastOpenFiles": [
+    "大数据-吴邪笔记/博客 - 1分钟绑定wolai笔记 到自定义域名_jonh3o5fR5psR7pp1ZUSQ5.md",
+    "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
     "未命名.canvas",
     "Untitled.md",
     "obsidian.md",
     "README.md",
     "2023-01-05.md",
-    "Excalidraw/Drawing 2023-01-05 00.19.02.excalidraw.md",
     "未命名 1.canvas",
     "新的文件.md",
-    "色润肺.md",
-    "images/Pasted image 20221123161222.png"
+    "色润肺.md"
   ]
 }
