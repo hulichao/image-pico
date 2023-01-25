@@ -1,8 +1,8 @@
 {
-  "accentColor": "#253131",
+  "accentColor": "#98c8c8",
   "theme": "obsidian",
-  "cssTheme": "Cybertron",
-  "baseFontSize": 27,
+  "cssTheme": "Cyber Glow",
+  "baseFontSize": 16,
   "interfaceFontFamily": "宋体,楷体",
   "textFontFamily": "微软雅黑",
   "monospaceFontFamily": "Cambria Math",

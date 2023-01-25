@@ -6,18 +6,48 @@
       {
         "id": "39ba8ead5541b622",
         "type": "tabs",
+        "dimension": 85.19611978068326,
         "children": [
           {
             "id": "886ae3a8c6e398d0",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "大数据-吴邪笔记/image/image__J1Ith2yCF.png"
+              }
+            },
+            "group": "e03492cfc0af9adb"
+          },
+          {
+            "id": "b5f5d27e11206a38",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md",
+                "file": "dataview-测试/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "d004bb191be9d498",
+        "type": "tabs",
+        "dimension": 14.803880219316746,
+        "children": [
+          {
+            "id": "b88d2298a9e2a5c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大数据-吴邪笔记/image/image__J1Ith2yCF.png"
+              }
+            },
+            "group": "e03492cfc0af9adb"
           }
         ]
       }
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md",
+                "file": "大数据-吴邪笔记/image/image__J1Ith2yCF.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md",
+                "file": "大数据-吴邪笔记/image/image__J1Ith2yCF.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据-吴邪笔记/大数据开发-Spark-RDD的持久化和缓存_qUau8BgPrQa8UAKrEuCicp.md"
+                "file": "大数据-吴邪笔记/image/image__J1Ith2yCF.png"
               }
             }
           }
@@ -147,21 +177,20 @@
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "obsidian-to-notion:Share to notion": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
   "active": "886ae3a8c6e398d0",
   "lastOpenFiles": [
-    "大数据-吴邪笔记/大数据开发-Spark-开发Streaming处理数据 && 写入Kafka_32EKKxHaKH8cpRVjEdEbfz.md",
-    "大数据-吴邪笔记/连接不上Docker-Kafka-broker及Kafka解决内网外网隔离的几个重要参数_66G4DbnpdDKwEc3nP6Wj9j.md",
-    "大数据-吴邪笔记/开发工具-scala处理json格式利器-json4s_sTVar6XXjpuM9ANFn2sx9n.md",
-    "大数据-吴邪笔记/机器学习-KNN算法原理 && Spark实现_7ovDFfwxVAt7cBZGPoXYow.md",
-    "大数据-吴邪笔记/大数据实战-Hive-技巧实战_2LgaeiFwLs7mCTwG5T3c9M.md",
-    "大数据-吴邪笔记/大数据开发-Sql-涉及迭代数据的sql问题处理思路_qdo4cud5HMpMcRK1NJyvxx.md",
-    "大数据-吴邪笔记/算法-回溯问题解决框架_fqjEinhMhmhcUvWmmwhfcD.md",
-    "大数据-吴邪笔记/Java设计模式_jx3yV3TDhAX7AoH1K2hroX.md",
-    "大数据-吴邪笔记/Hive-常见调优方式 && 两个面试sql_dxPomX7pCopgC97TLUaxxH.md",
-    "大数据-吴邪笔记/大数据开发-Spark-拷问灵魂的5个问题_fcZEt6ZVVNKWvgTPRzrpuS.md"
+    "大数据-吴邪笔记/image/猜拳_RlMqFwq1XF.gif",
+    "大数据-吴邪笔记/博客 - 1分钟绑定wolai笔记 到自定义域名_jonh3o5fR5psR7pp1ZUSQ5.md",
+    "大数据-吴邪笔记/大数据开发-Flink-体系结构 && 运行架构_p7J5kySGMKQfntnoq7LP4Y.md",
+    "大数据-吴邪笔记/大数据开发-深入理解大数据Lambda架构_eZbWnkT9oiqvbgWiSTgkuQ.md",
+    "大数据-吴邪笔记/大数据-吴邪笔记_eRJ27VoWFoVeiGAoo1dT4a.md",
+    "大数据-吴邪笔记/大数据开发-Go-Go中的方法_k9EJR2wjjbDUs2R5FzhTRr.md",
+    "大数据-吴邪笔记/大数据开发 - mysql 根据自表更新错误的解决方法_idzgvcG4efSpKnCSCAYnR9.md",
+    "大数据-吴邪笔记/大数据开发-从cogroup的实现来看join是宽依赖还是窄依赖_syLADrvsW3dwCpNfCjsBZW.md",
+    "大数据-吴邪笔记/大数据开发-从Scala到Akka并发编程_jDW32G3c87fjEBtYNE7Z7f.md",
+    "大数据-吴邪笔记/大数据开发-数仓ads层指标计算_5j4qAw2ATRMJq9usPof9Cb.md"
   ]
 }
